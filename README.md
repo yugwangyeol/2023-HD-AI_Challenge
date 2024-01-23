@@ -15,7 +15,8 @@
 - 참가인원 : 1,439명
 - 성과 : 에선(10등) 본선(1등,대상 수상)
 <br/>
-![스크린샷 2024-01-23 195930](https://github.com/yugwangyeol/HD-AI_Challenge/assets/72298825/ca2778f0-2968-410c-bcd9-92456f9aa8d1)
+![스크린샷 2024-01-23 195930](https://github.com/yugwangyeol/HD-AI_Challenge/assets/72298825/ca2778f0-2968-410c-bcd9-92456f9aa8d1.PNG)
+
 
 <br/>
 
