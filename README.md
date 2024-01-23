@@ -114,4 +114,4 @@
 
 ## 6. 발표 자료
 
-[HD-AI-CHALLENGE 본선 발표 자료]([https://drive.google.com/file/d/1LucNwGaHszsWa-NIxNpl8cFeIRABim0f/view](https://github.com/yugwangyeol/HD-AI_Challenge/blob/main/Presentation/%5BHD%5D%ED%98%84%EB%8C%80_%EC%B5%9C%EC%A2%85.pdf)https://github.com/yugwangyeol/HD-AI_Challenge/blob/main/Presentation/%5BHD%5D%ED%98%84%EB%8C%80_%EC%B5%9C%EC%A2%85.pdf)  
+[HD-AI-CHALLENGE 본선 발표 자료]([https://drive.google.com/file/d/1LucNwGaHszsWa-NIxNpl8cFeIRABim0f/view](https://github.com/yugwangyeol/HD-AI_Challenge/blob/main/Presentation/%5BHD%5D%ED%98%84%EB%8C%80_%EC%B5%9C%EC%A2%85.pdf)https://github.com/yugwangyeol/HD-AI_Challenge/blob/main/Presentation/%5BHD%5D%ED%98%84%EB%8C%80_%EC%B5%9C%EC%A2%85.pdf])  
