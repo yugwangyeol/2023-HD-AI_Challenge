@@ -1,4 +1,4 @@
-# HA AI CHALLENGE
+# HD-AI-CHALLENGE
 
 <br/>
 
@@ -15,7 +15,7 @@
 - 참가인원 : 1,439명
 - 성과 : 에선(10등) 본선(1등,대상 수상)
 <br/>
-![스크린샷 2024-01-23 195930](https://github.com/yugwangyeol/HD-AI_Challenge/assets/72298825/f8d18849-a5b3-48d9-b0e0-c7ad9867e934)
+![스크린샷 2024-01-23 195930](https://github.com/yugwangyeol/HD-AI_Challenge/assets/72298825/f8d18849-a5b3-48d9-b0e0-c7ad9867e934.PNG)
 
 <br/>
 
