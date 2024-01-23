@@ -14,6 +14,10 @@
 - 주최/주관: HD한국조선해양 AI Center
 - 팀원: 학생 총 3명
 - 수상 : 에선(10등) 본선(1등)
+<br/>
+
+<img src='[https://user-images.githubusercontent.com/75362328/212482283-2acfba84-57db-4ee7-a187-365c343930a0.png](https://github.com/yugwangyeol/HD-AI_Challenge/assets/72298825/f8d18849-a5b3-48d9-b0e0-c7ad9867e934)' width='100%' height='80%'>
+
 ![스크린샷 2024-01-23 195930](https://github.com/yugwangyeol/HD-AI_Challenge/assets/72298825/f8d18849-a5b3-48d9-b0e0-c7ad9867e934)
 
 <br/>
