@@ -15,6 +15,7 @@
 - 참가인원 : 1,439명
 - 성과 : 에선(10등) 본선(1등,대상 수상)
 <br/>
+
 ![170000790063290](https://github.com/yugwangyeol/HD-AI_Challenge/assets/72298825/6e58aaa6-6a8a-4ede-8dde-a1828ef08482)
 
 <br/>
