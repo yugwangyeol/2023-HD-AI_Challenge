@@ -112,6 +112,7 @@
 
 <br/>
 
-## 6. 발표 자료
+## 6. 발표 자료&참고 자료
 
+[HD-AI-CHALLENGE DACON](https://dacon.io/competitions/official/236158/overview/description)
 [HD AI Challenge 본선 발표 자료](https://github.com/yugwangyeol/HD-AI_Challenge/blob/main/Presentation/%5BHD%5D%ED%98%84%EB%8C%80_%EC%B5%9C%EC%A2%85.pdf)
